@@ -16,15 +16,15 @@ I'm building my foundation in programming and computer science, learning step by
 
 🧰 Skills & Technologies
 
-- Programming: Python, C (learning)
-- Tools: Git, GitHub
-- Interests: Software development, problem-solving
+- Programming: Python, C, C++, Java, JavaScript, HTML, CSS
+- Tools: Git, GitHub, VS Code, Linux
+- Interests: Core CS: Data Structures, Algorithms, OOP, Problem Solving
 
 🌐 Connect With Me
 
 - Portfolio: "aryancodes-dev.github.io" (https://aryancodes-dev.github.io/)
-- LinkedIn: "Connect with me" (https://www.linkedin.com/in/aʀʏᴀɴ-kumar-shah-933222443)
-- Email: "aryankumarshah05@gmail.com" (mailto:aryankumarshah05@gmail.com)
+- LinkedIn: "Connect with me" https://www.linkedin.com/in/aryan-kumar-shah-933222443
+- Email: arynkmrshh@gmail.com
 
 ---
 
